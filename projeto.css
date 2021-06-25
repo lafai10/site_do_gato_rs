@@ -1,0 +1,23 @@
+.HOME {
+    color: rgb(109, 216, 47);
+}
+
+.LEIRSOPORTEIRO {
+    color: rgb(22, 59, 184);
+}
+
+.LEIRSOPORTEIRO:hover {
+    color: rgb(221, 12, 12)
+}
+
+.HOME:hover {
+    color: blue;
+}
+
+.MOLARELOIRO {
+    color: rgb(170, 14, 136);
+}
+
+.back {
+    background-image: url("https://www.publicdomainpictures.net/pictures/280000/velka/damask-wallpaper-background-blue.jpg");
+}
